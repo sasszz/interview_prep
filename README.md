@@ -19,6 +19,8 @@ Leetcode problems are given 40 minutes to solve
 | **Date**        | **Problem** | **Difficulty** | **Solution Status**       | **Time** |
 |------------------|------------------|----------------|----------------------------|----------------|
 | 11/25/24       | Merge Sorted Array  | Easy | Solved | 20m
+| 11/26/24       | Remove Element  | Easy | Not Solved | 60m
+
 
 ---
 
